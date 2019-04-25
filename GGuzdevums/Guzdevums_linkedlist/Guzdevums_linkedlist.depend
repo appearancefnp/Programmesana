@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1555880009 source:c:\users\lu studijam\desktop\studijas\ii semestris\programmesana\g uzdevums\g1_uzdevums.cpp
+	<iostream>
+	"kartot.h"
+	"lvfriendly.h"
+
+1555880039 c:\users\lu studijam\desktop\studijas\ii semestris\programmesana\g uzdevums\kartot.h
+
+1536260220 c:\users\lu studijam\desktop\studijas\ii semestris\programmesana\g uzdevums\lvfriendly.h
+	<cstdio>
+	<cstring>
+	<iostream>
+
+1555879859 source:c:\users\lu studijam\desktop\studijas\ii semestris\programmesana\g uzdevums\kartot.cpp
+	"kartot.h"
+

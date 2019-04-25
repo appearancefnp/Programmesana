@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1555881063 source:c:\users\lu studijam\desktop\studijas\ii semestris\programmesana\gguzdevums\guzdevums_test\main.cpp
+	<iostream>
+	"../../G_uzdevums/kartot.cpp"
+
+1555880047 c:\users\lu studijam\desktop\studijas\ii semestris\programmesana\g_uzdevums\kartot.cpp
+	"kartot.h"
+
+1555880039 c:\users\lu studijam\desktop\studijas\ii semestris\programmesana\g_uzdevums\kartot.h
+
+1555880047 source:c:\users\lu studijam\desktop\studijas\ii semestris\programmesana\g_uzdevums\kartot.cpp
+	"kartot.h"
+

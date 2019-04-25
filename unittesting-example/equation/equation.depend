@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552043424 source:c:\users\lu studijam\desktop\studijas\ii semestris\programmesana\unittesting-example\equation\eq.cpp
+	"eq.h"
+
+1552041826 c:\users\lu studijam\desktop\studijas\ii semestris\programmesana\unittesting-example\equation\eq.h
+
+1552042462 source:c:\users\lu studijam\desktop\studijas\ii semestris\programmesana\unittesting-example\equation\main.cpp
+	<iostream>
+	"eq.h"
+
