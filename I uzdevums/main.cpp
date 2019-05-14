@@ -1,8 +1,5 @@
 #include <SFML/Graphics.hpp>
 #include <math.h>
-#include <iostream>
-using namespace std;
-
 const float SIZE = 1080;
 const double PI = 3.14159265359;
 
