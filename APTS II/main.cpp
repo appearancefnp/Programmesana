@@ -50,16 +50,6 @@ public:
             p=first; /// 4
         }
     }
-// TESTING PURPOUSES/////////////////////////
-    void print() {
-        elem *p=first;
-        while (p!=NULL) {
-            cout<<p->value<<" ";
-            p=p->next;
-        }
-        cout<<endl;
-    }
-/////////////////////////////////////////
 };
 
 class List {
