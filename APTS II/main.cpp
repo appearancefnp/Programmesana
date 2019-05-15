@@ -124,7 +124,9 @@ int BreadthFirstSearchForMaxDist(List adj[], int source, int vertices, int dist[
     // standard BFS algorithm
     while (!que.empty()) {
         int w = que.dequeue();
+        //Apstaigâ kaimiòus vertex w
         for (int i = 0; i < adj[w].size(); i++) {
+            //Ja nav apmeklçts vertex, tad apmeklejam un skaitam distanci
             if (visited[adj[w][i]] == false) {
                 visited[adj[w][i]] = true;
                 dist[adj[w][i]] = dist[w] + 1;
